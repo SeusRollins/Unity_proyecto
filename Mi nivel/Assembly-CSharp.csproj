@@ -72,6 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Invector-3rdPersonController_LITE\README_Basic.txt" />
+    <None Include="Assets\Customizable Skybox\Stylized Sky\Shaders\Stylized Sky.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

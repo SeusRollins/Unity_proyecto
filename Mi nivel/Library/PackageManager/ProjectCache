@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638452964537287292
-    m_Hash: 981989430
+      ticks: 638452073558361078
+    m_Hash: 3810810243
   m_LockFileStatus:
     m_FilePath: C:/Users/gil_h/OneDrive/Documents/GitHub/Unity_proyecto/Mi nivel/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638452964537297313
-    m_Hash: 822886263
+      ticks: 638452073558417502
+    m_Hash: 1136066511
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
